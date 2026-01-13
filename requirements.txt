@@ -1,6 +1,7 @@
-pandas 
+pandas
 numpy
 seaborn
 scikit-learn
 pycgi
 plotly
+scipy
